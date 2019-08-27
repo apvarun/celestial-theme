@@ -1,10 +1,6 @@
 # Celestial
 ## VS Code theme for all the people who love to code in deep dark spaces.
 
-<p align="center">
-  <img alt="Celestial Logo" src="https://github.com/apvarun/celestial-theme/raw/master/Celestial.png">
-</p>
-
 ----------
 
 <p align="center">
@@ -20,8 +16,9 @@
 3. Open the Command Palette and select Preferences: Color Theme. This will list down all the themes you've installed.
 4. Select the Celestial theme to activate it.
 
-**Enjoy!**
+## Credits
 
+Celestial is a modified(darker) version of [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) Theme by [Jonathon](https://marketplace.visualstudio.com/publishers/jolaleye).
 
 ## License
 
